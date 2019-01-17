@@ -1,3 +1,0 @@
-# Belajar GitHub
-
-## Nurul Hidayat
