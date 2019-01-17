@@ -1,3 +1,3 @@
-## Belajar GitHub
+# Belajar GitHub
 
-Kusni jelek
+## Nurul Hidayat
